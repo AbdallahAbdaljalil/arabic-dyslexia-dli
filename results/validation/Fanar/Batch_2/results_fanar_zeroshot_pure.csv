@@ -1,0 +1,121 @@
+﻿Statement,LLM_Score,LLM_Label,LLM_Explanation
+فَإِنْ كَذَبَنِي فَكَذِّبُوهُ .,3,MODERATE,"Complex diacritics, vowel length ambiguity, consonant clusters."
+وكشف عمل ماري وبيير كوري اللاحق عن أن ثمة عناصر طبيعية أخرى كانت لها تلك الخاصية المميزة.,4,HARD,"Complex sentence structure; abstract concepts (elements, natural); unfamiliar scientific terms."
+ثُمَّ أَمَرَ بِأَبْوَابِهَا فَغُلِّقَتْ ،,3,MODERATE,"Complex diacritics (harakat), long vowels, consonant clusters."
+عند انصهار فيوز يمكن الاستعاضة عنه بسلك لتشغيل الدائرة الكهربائية.  (أ) صحيح  (ب) خاطئ,3,MODERATE,Complex sentence structure; technical vocabulary (فيوز، سلك، دائرة كهربائية); diacritics present but not always consistent.
+ومع ذلك، فإنه لا يتم عرض العلم في كثير من الأحيان نظرًا لارتباطه بالقومية المتطرفة.,4,HARD,"Complex sentence structure; abstract concepts (العلم, القومية); diacritics required for accurate pronunciation."
+المهمة المحددة هي تدمير سلاح الأرضيين واحتلال كوكبهم,4,HARD,"Complex diacritics, long words, unfamiliar technical terms (تدمير، سلاح، احتلال)"
+أَصِفُ ما أُشاهِدُهُ في اللَّوْحَةِ.,3,MODERATE,"Complex diacritics (vowels), long words, unfamiliar vocabulary."
+عبدك بين يديك››!,3,MODERATE,"Complex diacritics, long vowels, multiple consonants without vowel markers."
+هذا الحديث جميعًا، لماذا أسوقه؟,3,MODERATE,Complex sentence structure; presence of diacritics (tashkeel); abstract vocabulary.
+لماذا لا يتكلم الناس دائمًا؟!,3,MODERATE,"Long sentence structure; complex syntax; presence of diacritics (damma, fatha); unfamiliar vocabulary."
+ماذا؟!,1,VERY_EASY,"short word, common letters, simple vowel diacritics"
+** أنا سعيد جداً باهتمام مديرة المدرسة بتواصل تلاميذها مع المجلة، لذلك نشرت الرسالة كاملة ومعها صور التلاميذ المتفوقين,3,MODERATE,"Complex sentence structure; unfamiliar vocabulary (e.g., 'مديرة', 'المجلة'); diacritics present but may not fully disambiguate meaning."
+قَالَ أَخْبَرَنَا شُعْبَةُ ، عَنْ أَبِي جَمْرَةَ ،,4,HARD,"Complex diacritics, unfamiliar vocabulary, long words."
+ماذا قلت؟!,2,EASY,"Short sentence, common words, clear vowel markings."
+حَدَّثَنَا قُتَيْبَةُ ،,3,MODERATE,"Uncommon diacritics (tashkeel), complex consonant clusters (qutaybah)"
+أعني، ما هذا كله؟»,3,MODERATE,"Short sentence length; common words (أعني, ما, هذا); lack of diacritics."
+"بدون حليب , من فضلك .",2,EASY,"Short sentence, common words, clear vowel markings."
+وطمع بأنه إذا تجاوزه ألفى مطلوبه،,4,HARD,"Complex diacritics, long words, unfamiliar vocabulary."
+التّناصحُ في الإسلامِ,2,EASY,"Short sentence, common words, clear diacritics."
+وفي ذلك الوقت أسرى الرسول محمد أسرى من المسجد الحرام إلى بيت المسجد الأقصى حيث كان محمد مضطجعا في الحطيم فأتاه جبريل عليه السلام وأسرى به من هناك، ,4,HARD,Complex sentence structure; multiple diacritics (tashkeel); unfamiliar religious terms; long words.
+وأنت تقود سيارتك وجدت سائق أوتوبيس ينطلق بسرعة كبيرة. ماذا تفعل؟  (أ) أبلغ أقرب شرطي مرور عن رقم الأوتوبيس  (ب) أتركه يسير في طريقه  (ج) ألحق به وأعاتبه حتى لا يتسبب في حادث,3,MODERATE,"Complex sentence structure; unfamiliar vocabulary (e.g., 'أوتوبيس'); diacritics may vary."
+حَدَّثَنَا قَبِيصَةُ بْنُ عُقْبَةَ ،,3,MODERATE,"Complex diacritics, unfamiliar vocabulary (قبصة), long sentence structure."
+أنا بريئة,1,VERY_EASY,"short sentence, simple words, clear vowel markings"
+لكن.. هؤلاء فنانون وعباقرة قيمتهم ليست في ملابسهم ولكن في عقولهم وإبداعهم,3,MODERATE,Complex sentence structure; abstract concepts (value not in appearance but intellect); unfamiliar vocabulary (فنانون، عباقرة)
+أَتَأَمَّلُ وَأَسْتَنْتِجُ:,4,HARD,"Complex diacritics (tashkeel), long words, vowel length ambiguity."
+هارمونيكا,2,EASY,"short word length, common letters, simple vowel diacritics"
+وقد اِستَخدم جورج لومتر هذه الحلول لصياغة النسخة الأولى من نماذج الانفجار العظيم، والتي تطور فيها كوننا من حالة مبكرة شديدة الحرارة والكثافة.,4,HARD,"Complex sentence structure; abstract concepts (Big Bang theory); technical vocabulary (e.g., 'الانفجار العظيم', 'الحلول'); diacritics variation."
+غثاثةُ عيشي أن تَغِثَّ كرامتي,4,HARD,"Complex diacritics (tashkeel), long words, uncommon vocabulary."
+قال الإمبراطور: «أنا مُستعد.,3,MODERATE,"Long vowels (alif), diacritics, complex morphology."
+ومع ذلك إذا نظرنا إليه عن كثب، فسنعلم الكثير عما من شأنه أن يشجع العولمة، وما من شأنه أن يقيدها.,4,HARD,Complex sentence structure; abstract concepts (globalization); diacritics required for accurate pronunciation.
+أمر يدعو إلى الشك..,3,MODERATE,Short vowels not marked; complex consonant clusters (مَر); diacritics absent.
+قيم الإسلام وآدابه,2,EASY,"Short words, common letters, clear vowel markings."
+التَّنْمِيَةُ البَشَرِيَّةُ.,2,EASY,"Short words, common letters, clear vowel markings."
+الْمُعَلِّمَةُ: شُكْرًا يا ماجِدُ.,2,EASY,"Short sentence, common words, clear vowel markings (diacritics)"
+أُجيبُ بِمُفْرَدي,2,EASY,"Short sentence, common words, clear vowel markings."
+"ضد كلمة ""القادم""   (أ) الذاهب  (ب) الوداع  (ج) الشاهد  (د) الآتي",2,EASY,"Simple vocabulary, clear diacritics, short words."
+تمهيد,1,VERY_EASY,"short word, common letters, simple vowel diacritics"
+أَسْتَنْتِجُ أَبْرَزَ النَّتائِجِ المُتَرَتِّبَةِ عَلى تَنْفيذِ مُبادَرَةِ أَبْشِرْ.,4,HARD,"Complex morphology, diacritics (tashkeel), long words, abstract concepts."
+تسود الرياح الشمالية والشمالية الغربية في الأردن في الجزء الشمالي من:  (أ) الاغوار  (ب) البادية الصحراوية  (ج) وادي الأردن  (د) البحر الميت,4,HARD,Complex sentence structure; multiple clauses; unfamiliar geographical terms (الأغوار، البادية الصحراوية، وادي الأردن، البحر الميت); diacritics absent.
+وهو إعمال العقل في مشكلة للتوصل إلى حلها، ,3,MODERATE,Complex sentence structure; abstract concepts (إعمال العقل); unfamiliar vocabulary (مشكلة)
+وكانت الجموع تلبي (لبيك اللهم لبيك) نعمة تحرك القلوب وتقربك إلى الباري جل جلاله،,4,HARD,"Complex diacritics, long words, abstract concepts."
+ألم تحصل على شيء جديد؟,2,EASY,Short sentence length; common words; clear vowel diacritics (harakat)
+كلنا ساهمنا في شراء الكرة..,2,EASY,Short sentence length; common words; clear vowel diacritics (harakat)
+• تُنَظِّفُ وَجْهَكَ,2,EASY,"Short sentence, common words, clear vowel markings."
+كَانَ شَابٌّ قَدْ رَأَى الطَّائِرَ وَهُوَ يَحْمِلُ الْأَمِيرَةَ إِلَى كَهْفِهِ.,4,HARD,Complex sentence structure; presence of diacritics (tashkeel); unfamiliar vocabulary (الطائر، الأمير)
+أنا لا أدري لماذا أكتب هذا الكلام، ,3,MODERATE,"Long sentence structure; complex vocabulary (أدري, لماذا); diacritics absent."
+فَهْوَ يعْتَنَي بِنا سُبْحانَهُ.,3,MODERATE,"Long vowels (alif, waw, ya), diacritics, complex morphology."
+العراق بلد متعدد القوميات والأديان والمذاهب، وهو عضو مؤسس وفعال في جامعة الدول العربية وملتزم بميثاقها و جزء من العالم الإسلامي .,3,MODERATE,Complex sentence structure; multiple diacritics (tashkeel); abstract concepts like 'multiculturalism' and 'international organizations'
+وتغيب عنهم الذاكرة فيجحدون الخالق والمخلوق، ويشذون عن طبيعتهم، وينكرون المطامع والآمال، ,4,HARD,"Complex syntax, abstract concepts (الذاكرة, المخلوق), diacritics variation, long sentences."
+19 وَكَانَ مَسَاءٌ وَكَانَ صَبَاحٌ يَوْمًا رَابِعًا.,3,MODERATE,"Complex diacritics, long words, vowel length variation."
+لا يتقي فيها عادية البرد بدثارٍ ولا نارٍ، ,4,HARD,"Complex diacritics, long words, unfamiliar vocabulary."
+لماذا؟,1,VERY_EASY,"Short word, common letters, simple vowel diacritics."
+مهارة,1,VERY_EASY,"short word, common letters, simple vowel diacritics"
+عدد البوابات المنطقية في العبارة المنطقية A NOR C not NOR B  (أ) 3  (ب) 2  (ج) 4  (د) 1,4,HARD,"Complex logical symbols, technical vocabulary (NOR), multiple negations, abstract concepts."
+اصدق قولا,2,EASY,"Short sentence, common words, clear vowel markings."
+يَشْكُو الْحَبِيبَ وَلَيْسَ يَشْكُو غَدْرَهُ حَذَرًا عَلَيْهِ بِأَنْ يُعَدَّ خَذُولَا,4,HARD,"Complex diacritics, long words, uncommon vocabulary."
+ماذا تفعلان هنا؟,2,EASY,"Short sentence, common words, clear vowel markings."
+بينما تُعتبر اليهودية المحافظة والإصلاحية أكثر ليبرالية، حيث تعزز اليهودية المحافظة بشكل عام التفسير الأكثر تقليدية لمتطلبات اليهودية بالمقارنة مع اليهودية الإصلاحية.,4,HARD,Complex sentence structure; abstract concepts (Judaism); unfamiliar vocabulary.
+'== أصل التسمية ==,2,EASY,"Short words, clear diacritics, simple sentence structure."
+الغيبةُ :,1,VERY_EASY,"Short word, simple vowel diacritics, common root letters (غيب)"
+الوحيُ الإلهيُّ,2,EASY,"Short sentence, common words, clear diacritics."
+زيت للقلي.,1,VERY_EASY,"short words, common letters, simple vowel diacritics"
+ولكن هناك وظيفة أخرى تَظهَر بوادِرُها بعد انتهاء مَرحلة الطفولة — أي في مرحلة المُراهَقة — هي وظيفة التناسُل، ,4,HARD,Complex sentence structure; abstract concepts (وظيفة التناسُل); diacritics variation; unfamiliar vocabulary.
+وفي السنة أربعة فصول مرتبطة بالشمس ولو لم تكن محدودة في عدد أيامها.,3,MODERATE,Complex sentence structure; presence of diacritics (tashkeel); abstract concepts like 'seasons' and 'sun'; unfamiliar vocabulary.
+وبديهي أن الإنسان في ذلك الوقت كان قد أدرك القليل من معاني الرزق، وكنه الثروة، ,4,HARD,"Complex sentence structure; abstract concepts (رزق, ثروة); diacritics required for accurate pronunciation."
+بالنُّطْقِ أو بالرَّسْمِ,3,MODERATE,diacritics present; complex consonant clusters (نطق، رسم)
+فبإمكانهم التواصل مع أشخاص لا يعرفونهم,2,EASY,"Short words, common vocabulary, clear vowel markings (diacritics)"
+وعلى أيِّ حال، فقد أفاق سريعًا من هذه الحالة المزاجية الغامضة؛ إذ كان يعرفُ أنه متأخِّر وأنَّ ضيوفَه قد بدءُوا يَصلُون بالفعل.,4,HARD,Complex sentence structure; multiple diacritics (tashkeel); abstract concepts; unfamiliar vocabulary.
+مقلية على الجانبين ، من فضلك .,2,EASY,"Short sentence, common words, clear vowel markings."
+التشكيكِ:,3,MODERATE,"unusual word structure, diacritics present but not standard, potential confusion between similar letters (e.g., ك vs ق)"
+يتم تخزين البيانات في الحاسوب على شكل أرقام ثنائية.  (أ) صح  (ب) خطأ,3,MODERATE,"Complex technical terms (الحاسوب، البيانات), diacritics absent, long words."
+فازدادت دهشتها..,3,MODERATE,"Complex vowel diacritics, long words, unfamiliar vocabulary."
+الخدمةُ الوطنيَّةُ.,2,EASY,"Short sentence, common words, clear diacritics."
+والكوثر نهر في الجنة ,2,EASY,Short sentence length; common words (الكوثر، نهر، في، الجنة); clear vowel diacritics.
+فأنا غير مستغن عن عنقي,3,MODERATE,"Complex diacritics, long words, multiple prepositions."
+وَما اخْتَلَفَ أَهْلُ الكِتابِ في تَصْديقِ دَعْوَةِ مُحَمَّدٍ صلى الله عليه وسلم إِلّا بَعْدَ أَنْ تَبَيَّنَ لَهُمْ أَنَّهُ رَسولُ اللّهِ أَرْسَلَهُ لِلنّاسِ، فَصَدَّقَ بَعْضُهُمْ بِهِ؛ لِأَنَّهُ كانَ مَذْكورًا في كُتُبِهِمْ.,4,HARD,"Complex sentence structure, diacritics (tashkeel), abstract concepts, unfamiliar vocabulary."
+أجل ، أظن أني سوف أنظر .,2,EASY,"Short sentence, common words, clear vowel markings."
+قامَ رسولُ اللهِ صلى الله عليه وسلم بتأسيسِ الجيشِ الإسلاميِّ؛ للدِّفاعِ عنِ المسلمينَ، وصدِّ أيِّ هجومٍ تتعرضُ لهُ المدينةُ.,3,MODERATE,"Complex sentence structure; presence of diacritics (tashkeel); unfamiliar vocabulary (e.g., 'تأسيس', 'هجوم'); long words."
+هذا مجرد غَيضٍ من فيض.,2,EASY,"Short sentence, common words, clear vowel markings."
+ولم ينتظر الأمير ‹‹شهرمان›› سماع شيء آخر...,4,HARD,"Complex diacritics, long words, unfamiliar proper noun (شهرمان)"
+أما الزراعة فكادت تنحصر الآن بين الأمم المتأخرة والمُتوحشة.,4,HARD,Complex sentence structure; abstract vocabulary (الزراعة، تنحصر); diacritics required for accurate pronunciation.
+إيَّاكَ نَعْبُدُ وَإيَّاكَ نَسْتَعِينُ * ,2,EASY,"Short sentence, common words, clear diacritics."
+العدد السابق للعدد ٤٠  (أ) 13  (ب) 42  (ج) 39,2,EASY,Simple sentence structure; common words (العدد، السابق); clear numerical context.
+ماذا يعني هذا الاسم؟ عاكف:  (أ) مواظب  (ب) عاقد الجبين  (ج) مائل  (د) غاضب عنيد,3,MODERATE,"Complex vocabulary (e.g., 'عاكف'), multiple choice options, abstract concepts."
+طائرٌ ولا يطير!,2,EASY,"Short sentence, common words, clear vowel markings."
+أباح الإسلام لكبير السن العاجز عن الصيام الإفطار في شهر رمضان على  (أ) أن يطعم عن كل يوم عشرة مساكين  (ب) أن يطعم عن كل يوم خمسة مساكين  (ج) أن يطعم عن كل يوم مسكيناً,4,HARD,"Complex sentence structure; multiple clauses (a), (b), (c); abstract concepts like 'الإفطار' and 'الصيام'; unfamiliar vocabulary ('مسكين'); diacritics may vary."
+من أحياء القدس  (أ) الشيخ جراح  (ب) سلوان  (ج) كلاهما,2,EASY,"Short words, common vocabulary, clear diacritics."
+وكما تعلمون فإن الصحف تخصص صفحات يومية للحديث عن الرياضة، وعن أخبار المباريات.,2,EASY,Simple sentence structure; common vocabulary; clear diacritics.
+( من فوائد غض البصر  (أ) يورث الحسرة والحرمان  (ب) يعرض للعقاب في الآخرة.  (ج) معصية لله ورسوله.  (د) يفتح للمتعلم طرق العلم.,3,MODERATE,Complex sentence structure; multiple clauses; abstract concepts like 'الحسرة' and 'العقاب'; religious terminology.
+مخاضةُ ماضيكِ المُمِضِّ تَخُضُّني فترفَعُ وِدْياني، تَحُطُّ ذُرايا,4,HARD,"Complex diacritics, long words, multiple vowel changes, unfamiliar vocabulary."
+(مُتَّفَقٌ عَلَيْهِ).,3,MODERATE,"Long vowel marks, diacritics, complex consonant clusters"
+ثم انحرف يسارًا..,2,EASY,"Short sentence, common words, clear diacritics."
+أَسْتَنْتِجُ:,3,MODERATE,"Complex vowel diacritics, unfamiliar root word, potential confusion between similar letters (e.g., ت vs ط)"
+38 وَمَنْ لاَ يَأْخُذُ صَلِيبَهُ وَيَتْبَعُني فَلاَ يَسْتَحِقُّنِي.,4,HARD,"Complex diacritics, long words, unfamiliar vocabulary (صليب), religious context."
+حدّدِ الصّفاتِ الجسديّةَ الّتي ذكرَتْها الآياتُ للمتكبِّرِ، موضّحًا أثرَها على صاحبِها في المجتمعِ:,4,HARD,"Complex syntax, diacritics (tashkeel), abstract concepts, long words."
+أُنْشِدُ:,2,EASY,"Short word length, simple vowel diacritics, common root letters (ن ش د)"
+ليس لدي أية مضارب أو أحذية .,2,EASY,"Short sentence, common words, clear vowel markings."
+ما هِيَ أَرْكانُ الإيمانِ؟,3,MODERATE,"Long vowels (alif, waw, ya), diacritics, complex morphology."
+قبض الجميع بيديه،,2,EASY,Short sentence; common words; clear vowel markings (diacritics)
+كانت الفلسفة الميتافيزيقية («المنطق») هي دراسة الوجود والسببية والإله والمنطق والأشكال والكائنات المجردة الأخرى.,4,HARD,"Complex vocabulary, abstract concepts, long sentences, diacritics (tashkeel) absent."
+قالَ تَعالَى:,1,VERY_EASY,"Short sentence, common words, clear diacritics."
+إجازة مملة!,2,EASY,"Short sentence, common words, clear vowel markings."
+ما هذه الأصوات..,2,EASY,"Short sentence, common words, clear vowel diacritics."
+أنوي الخروج، لكن يُفاد إلي بأن ذلك ليس ضروريًا.,3,MODERATE,Complex sentence structure; presence of diacritics (tashkeel); abstract concepts.
+مِنْ فكرِ الباني المؤسِّسِ,3,MODERATE,"Complex diacritics, long words, unfamiliar vocabulary"
+في منطقة البحر الأبيض المتوسط، ضم أول اتصال بين الحضارات أفرادًا من نوع الإنسان العاقل، ,3,MODERATE,"Complex sentence structure; unfamiliar vocabulary (e.g., 'البحر الأبيض المتوسط', 'اتصال'); diacritics present but may not fully disambiguate meaning."
+بدء تفعيل التأمينات التالية في 2011/9/1 لدى مؤسسة الضمان الاجتماعي :  (أ) الشيخوخة و الامومة  (ب) التعطل و الامومة  (ج) الاختياري و الامومة  (د) الاختياري و التعطل,4,HARD,"Complex vocabulary, long sentences, multiple clauses, abstract concepts (insurance types), diacritics needed for correct pronunciation."
+وعلى الرغم من أن هذه المعلومات معروفة للجميع، وتكررت عند جميع من كتبوا عن صنوع، إلا أنها معلومات جاءت من مصدر وحيد وهو صنوع نفسه!,4,HARD,Complex sentence structure; multiple clauses; abstract concepts (information known by all); unfamiliar vocabulary (صنوع)
+"حاذر أن تسأل عن الوقت في جنوب أفريقيا، وإلا أجابوك مثلًا: ""متسو سوما هومي آه ميرارو كامورا هورا إيه منجو"".",5,VERY_HARD,"Complex sentence structure, unfamiliar vocabulary (e.g., 'متسو', 'هومي'), non-standard dialectical variations."
+أجابه عمر قائلًا: تلك دماء طهر الله يدي منها، فلا أحب أن أخضب لساني فيها..,4,HARD,Complex sentence structure; presence of diacritics (tashkeel); abstract vocabulary.
+37 فَأَجَابَ وَقَالَ لَهُمْ:«اَلزَّارِعُ الزَّرْعَ الْجَيِّدَ هُوَ ابْنُ الإِنْسَانِ.,4,HARD,"Complex diacritics, long words, unfamiliar vocabulary (e.g., 'الزَّارِعُ'), multiple noun phrases."
+القاهرة: نوستالجيا مستقبلية,3,MODERATE,"Uncommon diacritics (no vowels), complex morphology, abstract concept 'nostalgia'"
+لن يجيب القلب الا هذا الخيال,4,HARD,"Complex diacritics, long words, abstract concepts."
+يُعرِّف قاموس مريام وبستر الموضة على أنها التقليد أو النمط السائد.,3,MODERATE,Complex vocabulary (مريام، وبستر)، long words (التقليد، النمط)
+اتجاهات في أسواق الطاقة والجغرافيا السياسية,4,HARD,"Complex diacritics, long words, abstract concepts (energy markets, geopolitics)"
+وقد استغرق الأمر مليارات السنين كي تصل الحياة على الأرض لمرحلة الذكاء.,3,MODERATE,Complex sentence structure; abstract concepts (life evolution); long words.
+وتطورت واجهات المستخدم العاملة عليه لتدعم كل لغات العالم تقريبًا، ,3,MODERATE,Complex sentence structure; unfamiliar technical terms (واجهات المستخدم); diacritics absent.
+هلا ملأت هذا النموذج ؟,2,EASY,"Short sentence, common words, clear vowel markings."
+كما امتدت القروض والمنح والمساعدات التي قدمتها دولة الإمارات إلى معظم أنحاء العالم، ,3,MODERATE,"Complex sentence structure; unfamiliar technical terms (قروض, منح, مساعدات); diacritics absent."
+وقد بقي حجر واحد من المعبد الآرامي يعود لحكم الملك حازائيل، وهو حالياً يُعرض في متحف دمشق الوطني.,3,MODERATE,Complex sentence structure; presence of diacritics (harakat); unfamiliar historical names (حازائيل)
