@@ -35,8 +35,8 @@ Each feature is scored against empirically derived thresholds (1 point per thres
 
 ## Key Findings
 
-- **DLI vs. BAREC readability:** Pearson r = 0.107, Spearman ρ = 0.112 — confirming that dyslexic decoding load and general comprehension difficulty are largely orthogonal constructs.
-- **Quadrant analysis:** 26.8% of sentences are Low BAREC / High DLI — easy to understand but hard to decode. These are predominantly diacritized children's texts, which are visually demanding despite being semantically simple.
+- **DLI vs. BAREC readability:** Pearson r = 0.107, Spearman ρ = 0.112, confirming that dyslexic decoding load and general comprehension difficulty are largely orthogonal constructs.
+- **Quadrant analysis:** 26.8% of sentences are Low BAREC / High DLI, easy to understand but hard to decode. These are predominantly diacritized children's texts, which are visually demanding despite being semantically simple.
 - **LLM proxy evaluation:** GPT-4o correlations ranged from r = 0.168 (Batch 1 ZS Pure) to r = 0.346 (Batch 2 ZS Prompted), providing external validation of the DLI's construct validity.
 - **Feature importance:** Dotted Letter Proportion (DLP) dominates GPT feature ratings (RF importance = 0.344), followed by Morphological Complexity (0.176) and Lexical Difficulty (0.143).
 - **SVR model:** An SVR trained on GPT silver labels achieved r = 0.509 on a held-out set of 1,000 sentences (large set, zero-shot prompted labels).
@@ -148,7 +148,7 @@ Open `notebooks/dli_analysis.ipynb`. The notebook is organized into 9 sections:
 8. **SVR Model** — trains and saves SVR models on LLM silver labels
 9. **Figures** — generates all thesis figures
 
-**API cells are clearly marked with WARNING comments — skip these if you want to use saved results (recommended).** All LLM experiment results are pre-saved in `results/validation/`.
+**API cells are clearly marked with WARNING comments, skip these if you want to use saved results (recommended).** All LLM experiment results are pre-saved in `results/validation/`.
 
 The SVR models are pre-trained and saved in `results/models/`. To use them directly without retraining, uncomment the load cell in Section 8.
 
@@ -161,7 +161,7 @@ The SVR models are pre-trained and saved in `results/models/`. To use them direc
 Contains all DLI feature computation functions:
 - `dotted_letter_proportion` — DLP
 - `dot_load_ratio` — DLR  
-- `ovl` — overlapping letter density
+- `ovl` — orthographic vowel load
 - `similar_shape_density` — SSD
 - `psc_chameleon_prop` — PSC density
 - `lexical_difficulty_density` — LD using SAMER lexicon
