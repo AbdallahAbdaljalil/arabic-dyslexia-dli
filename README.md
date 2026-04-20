@@ -86,8 +86,6 @@ arabic-dyslexia-pilot/
 
 ---
 
----
-
 ## Setup
 
 ### Requirements
