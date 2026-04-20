@@ -22,9 +22,9 @@ The DLI scores Arabic sentences across **8 orthographic and lexical features**:
 |---------|-------------|-------------|
 | Dotted Letter Proportion | DLP | Proportion of letters with one or more dots |
 | Dot Load Ratio | DLR | Total dot count relative to letter count |
-| Overvowelization Load | OVL | Proportion of letters that overlap visually with others |
+| Orthographic Vowel Load | OVL | Proportion of letters carrying diacritic vowel marks |
 | Similar Shape Density | SSD | Proportion of letters sharing a base form with others |
-| PSC/Chameleon Density | PSC | Proportion of letters that change shape significantly by position |
+| PSC/Chameleon Density | PSC | Proportion of letters that take different visual forms depending on word position |
 | Lexical Difficulty | LD | Proportion of words not found in the SAMER readability lexicon |
 | Homograph Risk | HR | Proportion of words whose base form maps to multiple diacritized lemmas |
 | Morphological Complexity | MC | Average morphological analysis complexity via CAMeL Tools MLE disambiguator |
