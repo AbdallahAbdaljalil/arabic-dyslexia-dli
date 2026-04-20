@@ -45,6 +45,7 @@ Each feature is scored against empirically derived thresholds (1 point per thres
 
 ## Repository Structure
 
+```
 arabic-dyslexia-pilot/
 │
 ├── src/
@@ -83,6 +84,7 @@ arabic-dyslexia-pilot/
 │   │   └── svr_large_fewshot.joblib          # Large set SVR (Few-Shot)
 │   │
 │   └── figures/                              # Thesis figures
+```
 
 ---
 
